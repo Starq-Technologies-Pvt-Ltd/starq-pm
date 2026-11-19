@@ -16,7 +16,7 @@ provides_tools:
   - starq_pm_close
   - starq_pm_config
   - starq_pm_audit
-# capabilities: none declared — fail-closed default (SDK-11, NFR-11)
-# python_dependencies: none — stdlib only (SDK-13, NFR-05)
+# capabilities: none declared — fail-closed default
+# python_dependencies: none — stdlib only
 # requires_env: none — no secrets needed
-# plugins: none — zero runtime dependencies (D4-DEC-01 Option B, NFR-07)
+# plugins: none — zero runtime dependencies
